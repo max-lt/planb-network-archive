@@ -1,0 +1,4 @@
+[submodule "bitcoin-educational-content"]
+	path = bitcoin-educational-content
+	url = git@github.com:PlanB-Network/bitcoin-educational-content.git
+	branch = mainnet
