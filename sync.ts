@@ -17,16 +17,14 @@ import prettier from 'prettier';
 import fs from 'node:fs/promises';
 
 function processMarkdown(src: string, name: string) {
-  const [header, result] = src.startsWith('---')
+  const [header] = src.startsWith('---')
     ? src
         .split(/---/)
         .filter((e) => !!e)
         .map((e) => e.trim())
     : ['', src.trim()];
 
-  const content = result || header;
-
-  const metadata = result ? yaml(header) : {};
+  const metadata = header ? yaml(header) : {};
 
   return {
     metadata,
@@ -37,7 +35,7 @@ function processMarkdown(src: string, name: string) {
       .use(remarkRehype)
       .use(rehypeUnwrapImages)
       .use(rehypeStringify)
-      .processSync(content)
+      .processSync(src)
       .toString()
       // Replace lost uuids
       .replace(
@@ -49,7 +47,7 @@ function processMarkdown(src: string, name: string) {
       .replaceAll('{', '&#123;')
       .replaceAll('}', '&#125;')
       .replaceAll('@', '&#64;')
-			// Vite complains about alt="image" in images
+      // Vite complains about alt="image" in images
       .replaceAll(' alt="image"', '')
       .replaceAll('assets/', `/courses/${name}/assets/`)
   };
