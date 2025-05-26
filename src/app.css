@@ -1,1 +1,31 @@
 @import 'tailwindcss';
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+ul, ol {
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+  list-style-position: inside;
+}
+
+p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+article.markdown-body {
+  @apply p-4 container mx-auto;
+  @apply bg-white text-gray-900;
+
+  img {
+    @apply max-w-full h-auto rounded-lg my-4 mx-auto;
+  }
+
+  li {
+    @apply list-disc mb-1;
+  }
+}

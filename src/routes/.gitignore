@@ -1,0 +1,6 @@
+# Ignore everything in the routes directory
+**
+
+# Except for the following files and directories
+!.gitignore
+!+*

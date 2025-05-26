@@ -1,0 +1,1478 @@
+[
+  {
+    "title": "Bitcoin and BTC Pay Server",
+    "goal": "Installare BTC Pay Server per la tua attività",
+    "url": "/it/courses/pos305",
+    "lang": "it"
+  },
+  {
+    "title": "Bitcoin y BTCPay Server",
+    "goal": "Instalar BTCPay Server para tu negocio",
+    "url": "/es/courses/pos305",
+    "lang": "es"
+  },
+  {
+    "title": "Bitcoin and BTC Pay Server",
+    "goal": "Install BTC Pay Server for your business",
+    "url": "/en/courses/pos305",
+    "lang": "en"
+  },
+  {
+    "title": "Bitcoin a BTCPay Server",
+    "goal": "Nainstalovat BTCPay Server pro vaše podnikání",
+    "url": "/cs/courses/pos305",
+    "lang": "cs"
+  },
+  {
+    "title": "Bitcoin et BTCPay Server",
+    "goal": "Installer BTCPay Server pour votre entreprise",
+    "url": "/fr/courses/pos305",
+    "lang": "fr"
+  },
+  {
+    "title": "Bitcoin und BTCPay Server",
+    "goal": "Installieren Sie BTCPay Server für Ihr Unternehmen",
+    "url": "/de/courses/pos305",
+    "lang": "de"
+  },
+  {
+    "title": "Bitcoin ja BTCPay Server",
+    "goal": "Asenna BTCPay Server yrityksellesi",
+    "url": "/fi/courses/pos305",
+    "lang": "fi"
+  },
+  {
+    "title": "Bitcoin и BTCPay Server",
+    "goal": "Установка BTCPay Server для вашего бизнеса",
+    "url": "/ru/courses/pos305",
+    "lang": "ru"
+  },
+  {
+    "title": "Bitcoin ja BTCPay Server",
+    "goal": "Paigalda oma ettevõttele BTCPay Server",
+    "url": "/et/courses/pos305",
+    "lang": "et"
+  },
+  {
+    "title": "Bitcoin e BTCPay Server",
+    "goal": "Instalar o BTCPay Server para o seu negócio",
+    "url": "/pt/courses/pos305",
+    "lang": "pt"
+  },
+  {
+    "title": "Bitcoin i serwer płatności BTC",
+    "goal": "Zainstaluj serwer BTC Pay dla swojej firmy",
+    "url": "/pl/courses/pos305",
+    "lang": "pl"
+  },
+  {
+    "title": "Sviluppo su Lightning con SDK",
+    "goal": "Migliora le tue competenze di sviluppo su Lightning con una formazione intermedia in Rust e SDK.",
+    "url": "/it/courses/lnp402",
+    "lang": "it"
+  },
+  {
+    "title": "Desarrollo en Lightning con SDK",
+    "goal": "Avanza tus habilidades de desarrollo en Lightning con formación intermedia en Rust y SDK.",
+    "url": "/es/courses/lnp402",
+    "lang": "es"
+  },
+  {
+    "title": "Developping on Lightning with SDK",
+    "goal": "Advance your lightning development skills with intermediate Rust and SDK training.",
+    "url": "/en/courses/lnp402",
+    "lang": "en"
+  },
+  {
+    "title": "Vývoj na Lightning s SDK",
+    "goal": "Rozvíjejte své dovednosti vývoje na Lightning s pokročilým školením v Rust a SDK.",
+    "url": "/cs/courses/lnp402",
+    "lang": "cs"
+  },
+  {
+    "title": "Développement sur Lightning avec SDK",
+    "goal": "Améliorez vos compétences de développement sur Lightning avec une formation intermédiaire en Rust et SDK.",
+    "url": "/fr/courses/lnp402",
+    "lang": "fr"
+  },
+  {
+    "title": "Entwicklung auf Lightning mit SDK",
+    "goal": "Erweitern Sie Ihre Lightning-Entwicklungsfähigkeiten mit einem fortgeschrittenen Training in Rust und SDK.",
+    "url": "/de/courses/lnp402",
+    "lang": "de"
+  },
+  {
+    "title": "Kehittäminen Lightningilla SDK:n avulla",
+    "goal": "Kehitä Lightning-kehitystaitojasi edistyneellä Rust- ja SDK-koulutuksella.",
+    "url": "/fi/courses/lnp402",
+    "lang": "fi"
+  },
+  {
+    "title": "Разработка на Lightning с использованием SDK",
+    "goal": "Повысьте свои навыки разработки на Lightning с помощью продвинутого обучения на Rust и SDK.",
+    "url": "/ru/courses/lnp402",
+    "lang": "ru"
+  },
+  {
+    "title": "Arendamine Lightning SDK-ga",
+    "goal": "Arendage oma Lightning arendusoskusi edasi kesktaseme Rust ja SDK koolitusega.",
+    "url": "/et/courses/lnp402",
+    "lang": "et"
+  },
+  {
+    "title": "Desenvolvendo no Lightning com SDK",
+    "goal": "Avance suas habilidades de desenvolvimento em Lightning com treinamento intermediário em Rust e SDK.",
+    "url": "/pt/courses/lnp402",
+    "lang": "pt"
+  },
+  {
+    "title": "Programowanie w Lightning za pomocą SDK",
+    "goal": "Rozwijaj swoje umiejętności programowania Lightning dzięki szkoleniom Rust i SDK na poziomie średniozaawansowanym.",
+    "url": "/pl/courses/lnp402",
+    "lang": "pl"
+  },
+  {
+    "title": "Creazione di una Comunità o Meet-up Bitcoin",
+    "goal": "Creare e organizzare facilmente una comunità o un meet-up Bitcoin",
+    "url": "/it/courses/btc302",
+    "lang": "it"
+  },
+  {
+    "title": "Crear una comunidad o encuentro Bitcoin",
+    "goal": "Crea y organiza fácilmente una comunidad o reunión Bitcoin",
+    "url": "/es/courses/btc302",
+    "lang": "es"
+  },
+  {
+    "title": "Creating a Bitcoin Community or Meet-up",
+    "goal": "Easily create and organize a Bitcoin community or meet-up",
+    "url": "/en/courses/btc302",
+    "lang": "en"
+  },
+  {
+    "title": "Vytvoření bitcoinové komunity nebo setkání",
+    "goal": "Snadné vytvoření a uspořádání komunity Bitcoin nebo setkání",
+    "url": "/cs/courses/btc302",
+    "lang": "cs"
+  },
+  {
+    "title": "Créer une communauté ou un meet-up Bitcoin",
+    "goal": "Créer et organiser facilement une communauté ou un meet-up Bitcoin",
+    "url": "/fr/courses/btc302",
+    "lang": "fr"
+  },
+  {
+    "title": "Gründung einer Bitcoin-Community oder eines Treffens",
+    "goal": "Einfaches Erstellen und Organisieren einer Bitcoin-Community oder eines Treffens",
+    "url": "/de/courses/btc302",
+    "lang": "de"
+  },
+  {
+    "title": "Bitcoin-yhteisön tai tapaamisen luominen",
+    "goal": "Luo ja organisoi helposti Bitcoin-yhteisö tai -tapaaminen",
+    "url": "/fi/courses/btc302",
+    "lang": "fi"
+  },
+  {
+    "title": "Создание биткойн-сообщества или встречи",
+    "goal": "Легко создайте и организуйте биткойн-сообщество или встречу",
+    "url": "/ru/courses/btc302",
+    "lang": "ru"
+  },
+  {
+    "title": "Bitcoini kogukonna või kohtumise loomine",
+    "goal": "Lihtsalt luua ja korraldada Bitcoini kogukond või kohtumine",
+    "url": "/et/courses/btc302",
+    "lang": "et"
+  },
+  {
+    "title": "Criar uma comunidade ou reunião Bitcoin",
+    "goal": "Crie e organize facilmente uma comunidade ou encontro Bitcoin",
+    "url": "/pt/courses/btc302",
+    "lang": "pt"
+  },
+  {
+    "title": "Tworzenie społeczności Bitcoin lub spotkań",
+    "goal": "Łatwe tworzenie i organizowanie społeczności Bitcoin lub spotkań",
+    "url": "/pl/courses/btc302",
+    "lang": "pl"
+  },
+  {
+    "title": "Il viaggio di Bitcoin",
+    "goal": "Scoprire i fondamenti di Bitcoin, tra cui la proposta di valore monetario, i miner, le transazioni e i wallet.",
+    "url": "/it/courses/btc101",
+    "lang": "it"
+  },
+  {
+    "title": "El viaje de Bitcoin",
+    "goal": "Descubra los fundamentos de Bitcoin, incluyendo su propuesta de valor monetario, mineros, transacciones y monederos.",
+    "url": "/es/courses/btc101",
+    "lang": "es"
+  },
+  {
+    "title": "The Bitcoin Journey",
+    "goal": "Discover Bitcoin fundamentals, including its monetary value proposition, miners, transactions, and wallets.",
+    "url": "/en/courses/btc101",
+    "lang": "en"
+  },
+  {
+    "title": "Cesta bitcoinu",
+    "goal": "Objevte základy bitcoinu, včetně jeho peněžní hodnoty, těžařů, transakcí a peněženek.",
+    "url": "/cs/courses/btc101",
+    "lang": "cs"
+  },
+  {
+    "title": "Le parcours de Bitcoin",
+    "goal": "Découvrez les principes fondamentaux du bitcoin, notamment sa valeur monétaire, les mineurs, les transactions et les portefeuilles.",
+    "url": "/fr/courses/btc101",
+    "lang": "fr"
+  },
+  {
+    "title": "Die Bitcoin-Reise",
+    "goal": "Entdecken Sie die Grundlagen von Bitcoin, einschließlich des monetären Wertangebots, der Miner, Transaktionen und Wallets.",
+    "url": "/de/courses/btc101",
+    "lang": "de"
+  },
+  {
+    "title": "Bitcoinin matka",
+    "goal": "Tutustu Bitcoinin perusteisiin, mukaan lukien sen rahallinen arvolupaus, louhijat, transaktiot ja lompakot.",
+    "url": "/fi/courses/btc101",
+    "lang": "fi"
+  },
+  {
+    "title": "Путешествие биткойна",
+    "goal": "Узнайте об основах биткоина, в том числе о его денежном предложении, майнерах, транзакциях и кошельках.",
+    "url": "/ru/courses/btc101",
+    "lang": "ru"
+  },
+  {
+    "title": "Bitcoini teekond",
+    "goal": "Avastage Bitcoini põhialused, sealhulgas selle rahaline väärtus, kaevurid, tehingud ja rahakotid.",
+    "url": "/et/courses/btc101",
+    "lang": "et"
+  },
+  {
+    "title": "A viagem do Bitcoin",
+    "goal": "Descubra os fundamentos da Bitcoin, incluindo a sua proposta de valor monetário, os mineiros, as transacções e as carteiras.",
+    "url": "/pt/courses/btc101",
+    "lang": "pt"
+  },
+  {
+    "title": "Podróż Bitcoin",
+    "goal": "Odkryj podstawy Bitcoin, w tym jego propozycję wartości pieniężnej, górników, transakcje i portfele.",
+    "url": "/pl/courses/btc101",
+    "lang": "pl"
+  },
+  {
+    "title": "Introduzione Teorica a Lightning Network",
+    "goal": "Scoprire Lightning Network da una prospettiva tecnica",
+    "url": "/it/courses/lnp201",
+    "lang": "it"
+  },
+  {
+    "title": "Introducción Teórica a la Red Lightning",
+    "goal": "Descubrir la Red Lightning desde una perspectiva técnica",
+    "url": "/es/courses/lnp201",
+    "lang": "es"
+  },
+  {
+    "title": "Theoretical Introduction to the Lightning Network",
+    "goal": "Discover the Lightning Network from a technical perspective",
+    "url": "/en/courses/lnp201",
+    "lang": "en"
+  },
+  {
+    "title": "Teoretický úvod do Lightning Network",
+    "goal": "Objevte Lightning Network z technické perspektivy",
+    "url": "/cs/courses/lnp201",
+    "lang": "cs"
+  },
+  {
+    "title": "Introduction théorique au Lightning Network",
+    "goal": "Découvrir le Lightning Network sous l’angle technique",
+    "url": "/fr/courses/lnp201",
+    "lang": "fr"
+  },
+  {
+    "title": "Theoretische Einführung in das Lightning-Netzwerk",
+    "goal": "Entdecken Sie das Lightning-Netzwerk aus technischer Perspektive",
+    "url": "/de/courses/lnp201",
+    "lang": "de"
+  },
+  {
+    "title": "Teoreettinen johdatus Lightning-verkkoon",
+    "goal": "Tutustu Lightning-verkkoon teknisestä näkökulmasta",
+    "url": "/fi/courses/lnp201",
+    "lang": "fi"
+  },
+  {
+    "title": "Теоретическое введение в Сеть Молния",
+    "goal": "Изучить Сеть Молния с технической точки зрения",
+    "url": "/ru/courses/lnp201",
+    "lang": "ru"
+  },
+  {
+    "title": "Teoreetiline sissejuhatus Lightning Network'i",
+    "goal": "Avasta Lightning Network tehnilisest perspektiivist",
+    "url": "/et/courses/lnp201",
+    "lang": "et"
+  },
+  {
+    "title": "Introdução Teórica à Lightning Network",
+    "goal": "Descobrir a Lightning Network de uma perspectiva técnica",
+    "url": "/pt/courses/lnp201",
+    "lang": "pt"
+  },
+  {
+    "title": "Teoretyczne wprowadzenie do Lightning Network",
+    "goal": "Odkryj Lightning Network z technicznego punktu widzenia",
+    "url": "/pl/courses/lnp201",
+    "lang": "pl"
+  },
+  {
+    "title": "Biz School Previous Editions",
+    "goal": "learn the basics of Bitcoin, with particular focus on its economical rationale, historical context, social, financial and business implications.",
+    "url": "/en/courses/biz205",
+    "lang": "en"
+  },
+  {
+    "title": "Le Iperinflazioni",
+    "goal": "Comprendere l'emergere delle iperinflazioni in un mondo Fiat e le loro conseguenze",
+    "url": "/it/courses/eco204",
+    "lang": "it"
+  },
+  {
+    "title": "Las Hiperinflaciones",
+    "goal": "Comprender la aparición de las hiperinflaciones en un mundo Fiat y sus consecuencias",
+    "url": "/es/courses/eco204",
+    "lang": "es"
+  },
+  {
+    "title": "Hyperinflation Studies",
+    "goal": "Understanding the emergence of hyperinflations in a Fiat world and their consequences",
+    "url": "/en/courses/eco204",
+    "lang": "en"
+  },
+  {
+    "title": "Studie hyperinflace",
+    "goal": "Porozumění vzniku hyperinflací ve světě Fiat měn a jejich důsledkům",
+    "url": "/cs/courses/eco204",
+    "lang": "cs"
+  },
+  {
+    "title": "Les Hyperinflations",
+    "goal": "Comprendre l'émergence des hyperinflations dans un monde Fiat et leurs conséquences",
+    "url": "/fr/courses/eco204",
+    "lang": "fr"
+  },
+  {
+    "title": "Die Hyperinflationen",
+    "goal": "Das Aufkommen von Hyperinflationen in einer Fiat-Welt verstehen und ihre Auswirkungen analysieren",
+    "url": "/de/courses/eco204",
+    "lang": "de"
+  },
+  {
+    "title": "Hyperinflaation Tutkimukset",
+    "goal": "Ymmärtää hyperinflaatioiden esiintyminen Fiat-maailmassa ja niiden seuraukset",
+    "url": "/fi/courses/eco204",
+    "lang": "fi"
+  },
+  {
+    "title": "Исследования Гиперинфляции",
+    "goal": "Понимание возникновения гиперинфляции в мире фиатных валют и ее последствия",
+    "url": "/ru/courses/eco204",
+    "lang": "ru"
+  },
+  {
+    "title": "Hüperinflatsiooni Uuringud",
+    "goal": "Mõista hüperinflatsioonide teket Fiat-valuuta domineerivas maailmas ja nende tagajärgi",
+    "url": "/et/courses/eco204",
+    "lang": "et"
+  },
+  {
+    "title": "As Hiperinflações",
+    "goal": "Compreender a emergência das hiperinflações em um mundo Fiat e suas consequências",
+    "url": "/pt/courses/eco204",
+    "lang": "pt"
+  },
+  {
+    "title": "Badania nad hiperinflacją",
+    "goal": "Zrozumienie powstawania hiperinflacji w świecie Fiata i ich konsekwencji",
+    "url": "/pl/courses/eco204",
+    "lang": "pl"
+  },
+  {
+    "title": "La storia della creazione di Bitcoin",
+    "goal": "Scoprire la storia delle origini, del lancio e degli sviluppi iniziali di Bitcoin.",
+    "url": "/it/courses/his201",
+    "lang": "it"
+  },
+  {
+    "title": "La Historia de la Creación de Bitcoin",
+    "goal": "Descubrir la historia de los orígenes, lanzamiento y primeros desarrollos de Bitcoin.",
+    "url": "/es/courses/his201",
+    "lang": "es"
+  },
+  {
+    "title": "The History of Bitcoin's Creation",
+    "goal": "Discover the history of the origins, launch, and early developments of Bitcoin.",
+    "url": "/en/courses/his201",
+    "lang": "en"
+  },
+  {
+    "title": "Historie vzniku Bitcoinu",
+    "goal": "Objevte historii původu, spuštění a raného vývoje Bitcoinu.",
+    "url": "/cs/courses/his201",
+    "lang": "cs"
+  },
+  {
+    "title": "L'histoire de la création de Bitcoin",
+    "goal": "Découvrir l'histoire des origines, du lancement et des premiers développements de Bitcoin.",
+    "url": "/fr/courses/his201",
+    "lang": "fr"
+  },
+  {
+    "title": "Die Geschichte der Entstehung von Bitcoin",
+    "goal": "Entdecken Sie die Geschichte der Ursprünge, des Starts und der frühen Entwicklungen von Bitcoin.",
+    "url": "/de/courses/his201",
+    "lang": "de"
+  },
+  {
+    "title": "Bitcoinin luomisen historia",
+    "goal": "Tutustu Bitcoinin alkuperän, käynnistyksen ja varhaisen kehityksen historiaan.",
+    "url": "/fi/courses/his201",
+    "lang": "fi"
+  },
+  {
+    "title": "История создания Биткойна",
+    "goal": "Узнать историю происхождения, запуска и раннего развития Биткойна.",
+    "url": "/ru/courses/his201",
+    "lang": "ru"
+  },
+  {
+    "title": "Bitcoini loomise ajalugu",
+    "goal": "Avastada Bitcoini alguste, käivitamise ja varajase arengu ajalugu.",
+    "url": "/et/courses/his201",
+    "lang": "et"
+  },
+  {
+    "title": "A História da Criação do Bitcoin",
+    "goal": "Descobrir a história das origens, lançamento e desenvolvimentos iniciais do Bitcoin.",
+    "url": "/pt/courses/his201",
+    "lang": "pt"
+  },
+  {
+    "title": "Historia powstania Bitcoin",
+    "goal": "Poznaj historię powstania, uruchomienia i wczesnego rozwoju Bitcoin.",
+    "url": "/pl/courses/his201",
+    "lang": "pl"
+  },
+  {
+    "title": "Frédéric Bastiat, Vita, Influenze e Pensiero Economico",
+    "goal": "Acquisire una profonda comprensione della vita, delle influenze, degli avversari e delle teorie economiche di Frédéric Bastiat, economista e pensatore francese del XIX secolo.",
+    "url": "/it/courses/eco102",
+    "lang": "it"
+  },
+  {
+    "title": "Frédéric Bastiat, Vida, Influencias y Pensamiento Económico",
+    "goal": "Obtener un profundo entendimiento de la vida, influencias, oponentes y teorías económicas de Frédéric Bastiat, un economista y pensador francés del siglo XIX.",
+    "url": "/es/courses/eco102",
+    "lang": "es"
+  },
+  {
+    "title": "Frédéric Bastiat, Life, Influences, and Economic Thought",
+    "goal": "To gain a deep understanding of the life, influences, opponents, and economic theories of Frédéric Bastiat, a 19th-century French economist and thinker.",
+    "url": "/en/courses/eco102",
+    "lang": "en"
+  },
+  {
+    "title": "Frédéric Bastiat, Život, Vlivy a Ekonomické Myšlení",
+    "goal": "Získat hluboké pochopení o životě, vlivech, oponentech a ekonomických teoriích Frédérica Bastiata, ekonoma a myslitele 19. století z Francie.",
+    "url": "/cs/courses/eco102",
+    "lang": "cs"
+  },
+  {
+    "title": "Frédéric Bastiat, Vie, Influences et Pensée Économique",
+    "goal": "Obtenir une compréhension approfondie de la vie, des influences, des adversaires et des théories économiques de Frédéric Bastiat, un économiste et penseur français du XIXe siècle.",
+    "url": "/fr/courses/eco102",
+    "lang": "fr"
+  },
+  {
+    "title": "Frédéric Bastiat, Leben, Einflüsse und ökonomisches Denken",
+    "goal": "Ein tiefes Verständnis für das Leben, die Einflüsse, Gegner und die ökonomischen Theorien von Frédéric Bastiat, einem französischen Ökonomen und Denker des 19. Jahrhunderts, zu erlangen.",
+    "url": "/de/courses/eco102",
+    "lang": "de"
+  },
+  {
+    "title": "Frédéric Bastiat, elämä, vaikutteet ja taloudellinen ajattelu",
+    "goal": "Syventää ymmärrystä Frédéric Bastiat'n, 1800-luvun ranskalaisen taloustieteilijän ja ajattelijan, elämästä, vaikutteista, vastustajista ja talousteorioista.",
+    "url": "/fi/courses/eco102",
+    "lang": "fi"
+  },
+  {
+    "title": "Фредерик Бастиа, Жизнь, Влияния и Экономическая Мысль",
+    "goal": "Получить глубокое понимание жизни, влияний, оппонентов и экономических теорий Фредерика Бастиа, французского экономиста и мыслителя XIX века.",
+    "url": "/ru/courses/eco102",
+    "lang": "ru"
+  },
+  {
+    "title": "Frédéric Bastiat, elu, mõjud ja majandusmõte",
+    "goal": "Saada sügav arusaam 19. sajandi Prantsuse majandusteadlase ja mõtleja Frédéric Bastiati elust, mõjutajatest, vastastest ja majandusteooriatest.",
+    "url": "/et/courses/eco102",
+    "lang": "et"
+  },
+  {
+    "title": "Frédéric Bastiat, Vida, Influências e Pensamento Econômico",
+    "goal": "Obter um entendimento profundo sobre a vida, influências, opositores e teorias econômicas de Frédéric Bastiat, um economista e pensador francês do século 19.",
+    "url": "/pt/courses/eco102",
+    "lang": "pt"
+  },
+  {
+    "title": "Frédéric Bastiat, życie, wpływy i myśl ekonomiczna",
+    "goal": "Dogłębne zrozumienie życia, wpływów, przeciwników i teorii ekonomicznych Frédérica Bastiata, XIX-wiecznego francuskiego ekonomisty i myśliciela.",
+    "url": "/pl/courses/eco102",
+    "lang": "pl"
+  },
+  {
+    "title": "Introduzione a Bitcoin & Stablecoin",
+    "goal": "Uno sguardo approfondito su Bitcoin, Stablecoin e la Sovranità che ne deriva",
+    "url": "/it/courses/eco104",
+    "lang": "it"
+  },
+  {
+    "title": "Introducción a Bitcoin y Stablecoin",
+    "goal": "Una mirada profunda a Bitcoin, Stablecoins y la soberanía que conllevan",
+    "url": "/es/courses/eco104",
+    "lang": "es"
+  },
+  {
+    "title": "Introduction to Bitcoin & Stablecoin",
+    "goal": "An In-Depth Look at Bitcoin, Stablecoins, & the Sovereignty That Comes With Them",
+    "url": "/en/courses/eco104",
+    "lang": "en"
+  },
+  {
+    "title": "Úvod do Bitcoinu & Stablecoinu",
+    "goal": "Podrobný pohled na Bitcoin, Stablecoiny a suverenitu, kterou s sebou přinášejí",
+    "url": "/cs/courses/eco104",
+    "lang": "cs"
+  },
+  {
+    "title": "Introduction à Bitcoin & Stablecoin",
+    "goal": "Un regard approfondi sur Bitcoin, les Stablecoins et la souveraineté qu'ils apportent",
+    "url": "/fr/courses/eco104",
+    "lang": "fr"
+  },
+  {
+    "title": "Einführung in Bitcoin & Stablecoin",
+    "goal": "Ein tiefer Einblick in Bitcoin, Stablecoins und die damit verbundene Souveränität",
+    "url": "/de/courses/eco104",
+    "lang": "de"
+  },
+  {
+    "title": "Johdanto Bitcoiniin & Stablecoiniin",
+    "goal": "Syvällinen katsaus Bitcoiniin, stablecoineihin ja niihin liittyvään suvereniteettiin",
+    "url": "/fi/courses/eco104",
+    "lang": "fi"
+  },
+  {
+    "title": "Введение в Bitcoin и Stablecoin",
+    "goal": "Глубокое изучение Bitcoin, Stablecoin и суверенитета, который они предоставляют",
+    "url": "/ru/courses/eco104",
+    "lang": "ru"
+  },
+  {
+    "title": "Bitcoin'i ja Stablecoin'i Tutvustus",
+    "goal": "Süvavaade Bitcoin'i, Stablecoin'ide ja nendega kaasneva suveräänsuse juurde",
+    "url": "/et/courses/eco104",
+    "lang": "et"
+  },
+  {
+    "title": "Introdução ao Bitcoin & Stablecoin",
+    "goal": "Um Olhar Aprofundado sobre o Bitcoin, Stablecoins e a Soberania que Acompanha",
+    "url": "/pt/courses/eco104",
+    "lang": "pt"
+  },
+  {
+    "title": "Wprowadzenie do Bitcoin i Stablecoin",
+    "goal": "Dogłębne spojrzenie na Bitcoin, stabilne monety i związaną z nimi suwerenność",
+    "url": "/pl/courses/eco104",
+    "lang": "pl"
+  },
+  {
+    "title": "Bitcoin Development Philosophy",
+    "goal": "Develop deep philosophical understanding of Bitcoin's design principles.",
+    "url": "/en/courses/phi301",
+    "lang": "en"
+  },
+  {
+    "title": "Costruire con elementi e rete liquida",
+    "goal": "Imparare a utilizzare e sviluppare con la piattaforma blockchain open-source Elements e le sue caratteristiche principali",
+    "url": "/it/courses/sid202",
+    "lang": "it"
+  },
+  {
+    "title": "Construir con elementos y red líquida",
+    "goal": "Aprenda a utilizar y desarrollar con la plataforma blockchain de código abierto Elements y sus características clave",
+    "url": "/es/courses/sid202",
+    "lang": "es"
+  },
+  {
+    "title": "Building with Elements and Liquid Network",
+    "goal": "Learn to use and develop with the Elements open-source blockchain platform and its key features",
+    "url": "/en/courses/sid202",
+    "lang": "en"
+  },
+  {
+    "title": "Budování pomocí prvků a kapalné sítě",
+    "goal": "Naučte se používat a vyvíjet s open-source blockchainovou platformou Elements a jejími klíčovými funkcemi",
+    "url": "/cs/courses/sid202",
+    "lang": "cs"
+  },
+  {
+    "title": "Construire avec les éléments et le réseau liquide",
+    "goal": "Apprendre à utiliser et à développer avec la plateforme blockchain open-source Elements et ses principales caractéristiques",
+    "url": "/fr/courses/sid202",
+    "lang": "fr"
+  },
+  {
+    "title": "Bauen mit Elementen und Liquid Network",
+    "goal": "Lernen Sie, die Open-Source-Blockchain-Plattform Elements und ihre wichtigsten Funktionen zu nutzen und damit zu entwickeln",
+    "url": "/de/courses/sid202",
+    "lang": "de"
+  },
+  {
+    "title": "Rakentaminen elementtien ja nestemäisen verkon avulla",
+    "goal": "Opi käyttämään ja kehittämään Elementsin avoimen lähdekoodin lohkoketjualustaa ja sen keskeisiä ominaisuuksia",
+    "url": "/fi/courses/sid202",
+    "lang": "fi"
+  },
+  {
+    "title": "Построение с помощью элементов и жидкой сети",
+    "goal": "Научитесь использовать и разрабатывать на основе блокчейн-платформы Elements с открытым исходным кодом и ее ключевых возможностей",
+    "url": "/ru/courses/sid202",
+    "lang": "ru"
+  },
+  {
+    "title": "Ehitus elementide ja vedelikuvõrguga",
+    "goal": "Õppige kasutama ja arendama avatud lähtekoodiga plokiahela platvormi Elements ja selle põhifunktsioone",
+    "url": "/et/courses/sid202",
+    "lang": "et"
+  },
+  {
+    "title": "Construir com Elementos e Rede Líquida",
+    "goal": "Aprender a utilizar e a desenvolver com a plataforma blockchain de código aberto Elements e as suas principais funcionalidades",
+    "url": "/pt/courses/sid202",
+    "lang": "pt"
+  },
+  {
+    "title": "Budowanie z Elements i Liquid Network",
+    "goal": "Naucz się korzystać z platformy Elements o otwartym kodzie źródłowym Blockchain i jej kluczowych funkcji",
+    "url": "/pl/courses/sid202",
+    "lang": "pl"
+  },
+  {
+    "title": "Ottenere i primi bitcoin",
+    "goal": "Imparate ad acquistare, proteggere e gestire i vostri primi bitcoin in modo indipendente.",
+    "url": "/it/courses/btc102",
+    "lang": "it"
+  },
+  {
+    "title": "Conseguir los primeros bitcoins",
+    "goal": "Aprenda a comprar, asegurar y gestionar sus primeros bitcoins de forma independiente.",
+    "url": "/es/courses/btc102",
+    "lang": "es"
+  },
+  {
+    "title": "Getting your first bitcoins",
+    "goal": "Learn how to buy, secure, and manage your first bitcoins independently.",
+    "url": "/en/courses/btc102",
+    "lang": "en"
+  },
+  {
+    "title": "Získání prvních bitcoinů",
+    "goal": "Zjistěte, jak si samostatně koupit, zabezpečit a spravovat své první bitcoiny.",
+    "url": "/cs/courses/btc102",
+    "lang": "cs"
+  },
+  {
+    "title": "Obtenir ses premiers bitcoins",
+    "goal": "Découvrez comment acheter, sécuriser et gérer vos premiers bitcoins en toute autonomie.",
+    "url": "/fr/courses/btc102",
+    "lang": "fr"
+  },
+  {
+    "title": "Ihre ersten Bitcoins bekommen",
+    "goal": "Lernen Sie, wie Sie Ihre ersten Bitcoins selbständig kaufen, sichern und verwalten können.",
+    "url": "/de/courses/btc102",
+    "lang": "de"
+  },
+  {
+    "title": "Ensimmäisten bitcoinien hankkiminen",
+    "goal": "Opi ostamaan, turvaamaan ja hallinnoimaan ensimmäisiä bitcoineja itsenäisesti.",
+    "url": "/fi/courses/btc102",
+    "lang": "fi"
+  },
+  {
+    "title": "Получение первых биткоинов",
+    "goal": "Узнайте, как самостоятельно купить, защитить и управлять своими первыми биткоинами.",
+    "url": "/ru/courses/btc102",
+    "lang": "ru"
+  },
+  {
+    "title": "Oma esimeste bitcoinide saamine",
+    "goal": "Õppige, kuidas osta, kindlustada ja hallata oma esimesi bitcoin'e iseseisvalt.",
+    "url": "/et/courses/btc102",
+    "lang": "et"
+  },
+  {
+    "title": "Obter os seus primeiros bitcoins",
+    "goal": "Aprenda a comprar, proteger e gerir os seus primeiros bitcoins de forma independente.",
+    "url": "/pt/courses/btc102",
+    "lang": "pt"
+  },
+  {
+    "title": "Zdobywanie pierwszych bitcoinów",
+    "goal": "Dowiedz się, jak samodzielnie kupić, zabezpieczyć i zarządzać swoimi pierwszymi bitcoinami.",
+    "url": "/pl/courses/btc102",
+    "lang": "pl"
+  },
+  {
+    "title": "Introduzione all'Economia Austriaca",
+    "goal": "Scoprire il pensiero della scuola economica austriaca. Studiare le loro opinioni sulla società e sulle realtà macro/microeconomiche.",
+    "url": "/it/courses/eco201",
+    "lang": "it"
+  },
+  {
+    "title": "Introducción a la Economía Austriaca",
+    "goal": "Descubre la escuela austríaca de pensamiento económico. Estudia sus puntos de vista sobre la sociedad y las realidades macro/microeconómicas.",
+    "url": "/es/courses/eco201",
+    "lang": "es"
+  },
+  {
+    "title": "Introduction to Austrian Economics",
+    "goal": "Discover the Austrian school of economic thought. Study their views on society and macro/micro-economic realities.",
+    "url": "/en/courses/eco201",
+    "lang": "en"
+  },
+  {
+    "title": "Úvod do rakouské ekonomie",
+    "goal": "Objevte školu rakouského ekonomického myšlení. Studujte jejich pohledy na společnost a makro/mikroekonomické reality.",
+    "url": "/cs/courses/eco201",
+    "lang": "cs"
+  },
+  {
+    "title": "Introduction à l'économie autrichienne",
+    "goal": "Découvrir l'école autrichienne de pensée économique. Étudier leurs points de vue sur la société et les réalités macro/micro-économiques.",
+    "url": "/fr/courses/eco201",
+    "lang": "fr"
+  },
+  {
+    "title": "Einführung in die Österreichische Schule der Nationalökonomie",
+    "goal": "Entdecke die Österreichische Schule der Nationalökonomie. Studiere ihre Ansichten über Gesellschaft und makro-/mikroökonomische Realitäten.",
+    "url": "/de/courses/eco201",
+    "lang": "de"
+  },
+  {
+    "title": "Johdatus itävaltalaiseen taloustieteeseen",
+    "goal": "Tutustu itävaltalaisen talousajattelun koulukuntaan. Tutki heidän näkemyksiään yhteiskunnasta sekä makro- ja mikrotaloudellisista todellisuuksista.",
+    "url": "/fi/courses/eco201",
+    "lang": "fi"
+  },
+  {
+    "title": "Введение в австрийскую экономику",
+    "goal": "Изучить школу австрийской экономической мысли. Изучить их взгляды на общество и макро/микроэкономические реалии.",
+    "url": "/ru/courses/eco201",
+    "lang": "ru"
+  },
+  {
+    "title": "Sissejuhatus Austria majandusteadusesse",
+    "goal": "Avastage Austria majandusmõttekool. Uurige nende vaateid ühiskonnale ja makro/mikro-majanduslikele reaalsustele.",
+    "url": "/et/courses/eco201",
+    "lang": "et"
+  },
+  {
+    "title": "Introdução à Economia Austríaca",
+    "goal": "Descobrir a escola austríaca de pensamento econômico. Estudar suas visões sobre a sociedade e as realidades macro/microeconômicas.",
+    "url": "/pt/courses/eco201",
+    "lang": "pt"
+  },
+  {
+    "title": "Wprowadzenie do ekonomii austriackiej",
+    "goal": "Odkryj austriacką szkołę myśli ekonomicznej. Przeanalizuj ich poglądy na społeczeństwo i realia makro/mikroekonomiczne.",
+    "url": "/pl/courses/eco201",
+    "lang": "pl"
+  },
+  {
+    "title": "Introduzione alla crittografia formale",
+    "goal": "Un'introduzione approfondita alla scienza e alla pratica della crittografia.",
+    "url": "/it/courses/cyp302",
+    "lang": "it"
+  },
+  {
+    "title": "Introducción a la criptografía formal",
+    "goal": "Una introducción en profundidad a la ciencia y la práctica de la criptografía.",
+    "url": "/es/courses/cyp302",
+    "lang": "es"
+  },
+  {
+    "title": "Introduction to formal Cryptography",
+    "goal": "A deep-dive introduction to the science and practice of cryptography.",
+    "url": "/en/courses/cyp302",
+    "lang": "en"
+  },
+  {
+    "title": "Úvod do formální kryptografie",
+    "goal": "Hloubkový úvod do vědy a praxe kryptografie.",
+    "url": "/cs/courses/cyp302",
+    "lang": "cs"
+  },
+  {
+    "title": "Introduction à la cryptographie formelle",
+    "goal": "Une introduction approfondie à la science et à la pratique de la cryptographie.",
+    "url": "/fr/courses/cyp302",
+    "lang": "fr"
+  },
+  {
+    "title": "Einführung in die formale Kryptographie",
+    "goal": "Eine tiefgehende Einführung in die Wissenschaft und Praxis der Kryptographie.",
+    "url": "/de/courses/cyp302",
+    "lang": "de"
+  },
+  {
+    "title": "Johdatus muodolliseen kryptografiaan",
+    "goal": "Syväsukellus kryptografian tieteeseen ja käytäntöön.",
+    "url": "/fi/courses/cyp302",
+    "lang": "fi"
+  },
+  {
+    "title": "Введение в формальную криптографию",
+    "goal": "Глубокое введение в науку и практику криптографии.",
+    "url": "/ru/courses/cyp302",
+    "lang": "ru"
+  },
+  {
+    "title": "Sissejuhatus formaalsesse krüptograafiasse",
+    "goal": "Sügav sissejuhatus krüptograafia teadusesse ja praktikasse.",
+    "url": "/et/courses/cyp302",
+    "lang": "et"
+  },
+  {
+    "title": "Introdução à criptografia formal",
+    "goal": "Uma introdução aprofundada à ciência e à prática da criptografia.",
+    "url": "/pt/courses/cyp302",
+    "lang": "pt"
+  },
+  {
+    "title": "Wprowadzenie do kryptografii formalnej",
+    "goal": "Dogłębne wprowadzenie do nauki i praktyki kryptografii.",
+    "url": "/pl/courses/cyp302",
+    "lang": "pl"
+  },
+  {
+    "title": "Elementi essenziali del Liquid Bootcamp",
+    "goal": "Acquisire una conoscenza completa della Liquid Network e del progetto Elements e imparare a implementare soluzioni avanzate in materia di transazioni riservate, tokenizzazione e architettura della rete decentralizzata.",
+    "url": "/it/courses/sid302",
+    "lang": "it"
+  },
+  {
+    "title": "Lo esencial del Liquid Bootcamp",
+    "goal": "Obtenga un conocimiento exhaustivo de la red Liquid y del proyecto Elements, y aprenda a implantar soluciones avanzadas en transacciones confidenciales, tokenización y arquitectura de red descentralizada.",
+    "url": "/es/courses/sid302",
+    "lang": "es"
+  },
+  {
+    "title": "Liquid Bootcamp Essentials",
+    "goal": "Gain a comprehensive understanding of the Liquid Network and the Elements project, and learn how to implement advanced solutions in confidential transactions, tokenization, and decentralized network architecture.",
+    "url": "/en/courses/sid302",
+    "lang": "en"
+  },
+  {
+    "title": "Základy tábora Liquid Bootcamp",
+    "goal": "Získejte komplexní znalosti o síti Liquid Network a projektu Elements a naučte se implementovat pokročilá řešení v oblasti důvěrných transakcí, tokenizace a decentralizované síťové architektury.",
+    "url": "/cs/courses/sid302",
+    "lang": "cs"
+  },
+  {
+    "title": "Liquid Bootcamp Essentials",
+    "goal": "Acquérir une compréhension globale du réseau Liquid et du projet Elements, et apprendre à mettre en œuvre des solutions avancées en matière de transactions confidentielles, de tokenisation et d'architecture de réseau décentralisé.",
+    "url": "/fr/courses/sid302",
+    "lang": "fr"
+  },
+  {
+    "title": "Liquid Bootcamp Essentials",
+    "goal": "Gewinnen Sie ein umfassendes Verständnis des Liquid Network und des Elements-Projekts und lernen Sie, wie Sie fortschrittliche Lösungen für vertrauliche Transaktionen, Tokenisierung und dezentrale Netzwerkarchitekturen implementieren.",
+    "url": "/de/courses/sid302",
+    "lang": "de"
+  },
+  {
+    "title": "Liquid Bootcamp Essentials",
+    "goal": "Saat kattavan ymmärryksen Liquid Networkista ja Elements-projektista ja opit toteuttamaan kehittyneitä ratkaisuja luottamuksellisten transaktioiden, tokenisoinnin ja hajautetun verkkoarkkitehtuurin alalla.",
+    "url": "/fi/courses/sid302",
+    "lang": "fi"
+  },
+  {
+    "title": "Liquid Bootcamp Essentials",
+    "goal": "Получите полное представление о сети Liquid Network и проекте Elements, а также узнайте, как реализовать передовые решения в области конфиденциальных транзакций, токенизации и децентрализованной сетевой архитектуры.",
+    "url": "/ru/courses/sid302",
+    "lang": "ru"
+  },
+  {
+    "title": "Liquid Bootcamp Essentials",
+    "goal": "Saate põhjaliku ülevaate Liquid Networkist ja Elements-projektist ning saate teada, kuidas rakendada täiustatud lahendusi konfidentsiaalsete tehingute, tokeniseerimise ja detsentraliseeritud võrguarhitektuuri valdkonnas.",
+    "url": "/et/courses/sid302",
+    "lang": "et"
+  },
+  {
+    "title": "Fundamentos do Liquid Bootcamp",
+    "goal": "Obtenha uma compreensão abrangente da Liquid Network e do projeto Elements, e aprenda a implementar soluções avançadas em transacções confidenciais, tokenização e arquitetura de rede descentralizada.",
+    "url": "/pt/courses/sid302",
+    "lang": "pt"
+  },
+  {
+    "title": "Liquid Bootcamp Essentials",
+    "goal": "Uzyskaj kompleksowe zrozumienie projektu Liquid Network i Elements oraz dowiedz się, jak wdrażać zaawansowane rozwiązania w Confidential Transactions, tokenizacji i zdecentralizowanej architekturze sieci.",
+    "url": "/pl/courses/sid302",
+    "lang": "pl"
+  },
+  {
+    "title": "Una Storia Filosofica della Libertà",
+    "goal": "Scoprire l'evoluzione della libertà attraverso i secoli, dagli antichi filosofi alle sfide moderne.",
+    "url": "/it/courses/phi201",
+    "lang": "it"
+  },
+  {
+    "title": "Una Historia Filosófica de la Libertad",
+    "goal": "Descubrir la evolución de la libertad a lo largo de los tiempos, desde los filósofos antiguos hasta los desafíos modernos.",
+    "url": "/es/courses/phi201",
+    "lang": "es"
+  },
+  {
+    "title": "A Philosophical History of Freedom",
+    "goal": "Discover the evolution of freedom through the ages, from ancient philosophers to modern challenges.",
+    "url": "/en/courses/phi201",
+    "lang": "en"
+  },
+  {
+    "title": "Filozofická historie svobody",
+    "goal": "Objevte vývoj svobody napříč věky, od starověkých filozofů po moderní výzvy.",
+    "url": "/cs/courses/phi201",
+    "lang": "cs"
+  },
+  {
+    "title": "Une histoire philosophique de la liberté",
+    "goal": "Découvrez l'évolution de la liberté à travers les âges, des philosophes antiques aux défis modernes.",
+    "url": "/fr/courses/phi201",
+    "lang": "fr"
+  },
+  {
+    "title": "Eine philosophische Geschichte der Freiheit",
+    "goal": "Entdecken Sie die Entwicklung der Freiheit durch die Zeitalter, von antiken Philosophen bis hin zu modernen Herausforderungen.",
+    "url": "/de/courses/phi201",
+    "lang": "de"
+  },
+  {
+    "title": "Vapauden filosofinen historia",
+    "goal": "Tutustu vapauden kehitykseen aikojen saatossa, muinaisista filosofeista nykypäivän haasteisiin.",
+    "url": "/fi/courses/phi201",
+    "lang": "fi"
+  },
+  {
+    "title": "Философская история свободы",
+    "goal": "Исследовать эволюцию свободы на протяжении веков, от древних философов до современных проблематик.",
+    "url": "/ru/courses/phi201",
+    "lang": "ru"
+  },
+  {
+    "title": "Vabaduse filosoofiline ajalugu",
+    "goal": "Avastada vabaduse evolutsiooni läbi aegade, alates iidsetest filosoofidest kuni tänapäeva väljakutseteni.",
+    "url": "/et/courses/phi201",
+    "lang": "et"
+  },
+  {
+    "title": "Uma História Filosófica da Liberdade",
+    "goal": "Descobrir a evolução da liberdade ao longo dos tempos, desde filósofos antigos até desafios modernos.",
+    "url": "/pt/courses/phi201",
+    "lang": "pt"
+  },
+  {
+    "title": "Filozoficzna historia wolności",
+    "goal": "Odkryj ewolucję wolności na przestrzeni wieków, od starożytnych filozofów po współczesne wyzwania.",
+    "url": "/pl/courses/phi201",
+    "lang": "pl"
+  },
+  {
+    "title": "Introduzione al Mining di Bitcoin",
+    "goal": "Comprendere il funzionamento dell'industria del mining attraverso un esercizio pratico di riutilizzo degli ASIC.",
+    "url": "/it/courses/min201",
+    "lang": "it"
+  },
+  {
+    "title": "Introducción a la Minería de Bitcoin",
+    "goal": "Comprender el funcionamiento de la industria minera a través de un ejercicio práctico de reutilización de ASICs.",
+    "url": "/es/courses/min201",
+    "lang": "es"
+  },
+  {
+    "title": "Introduction to Bitcoin Mining",
+    "goal": "Understand the functioning of the mining industry through a practical exercise of reusing ASICs.",
+    "url": "/en/courses/min201",
+    "lang": "en"
+  },
+  {
+    "title": "Úvod do těžby Bitcoinu",
+    "goal": "Porozumět fungování těžebního průmyslu prostřednictvím praktického cvičení s opětovným využitím ASICů.",
+    "url": "/cs/courses/min201",
+    "lang": "cs"
+  },
+  {
+    "title": "Introduction au Minage de Bitcoin",
+    "goal": "Comprendre le fonctionnement de l'industrie du minage à travers un exercice pratique de réutilisation d'ASICs.",
+    "url": "/fr/courses/min201",
+    "lang": "fr"
+  },
+  {
+    "title": "Einführung in das Bitcoin-Mining",
+    "goal": "Verstehen, wie die Mining-Industrie durch eine praktische Übung zur Wiederverwendung von ASICs funktioniert.",
+    "url": "/de/courses/min201",
+    "lang": "de"
+  },
+  {
+    "title": "Johdatus Bitcoin-louhintaan",
+    "goal": "Ymmärtää louhintateollisuuden toiminta käytännön harjoituksen kautta, jossa kierrätetään ASIC-laitteita.",
+    "url": "/fi/courses/min201",
+    "lang": "fi"
+  },
+  {
+    "title": "Введение в майнинг Bitcoin",
+    "goal": "Понять принципы работы индустрии майнинга через практическое занятие по повторному использованию ASIC.",
+    "url": "/ru/courses/min201",
+    "lang": "ru"
+  },
+  {
+    "title": "Bitcoini kaevandamisele sissejuhatus",
+    "goal": "Mõista kaevandamistööstuse toimimist praktilise harjutuse kaudu, kasutades uuesti ASIC-e.",
+    "url": "/et/courses/min201",
+    "lang": "et"
+  },
+  {
+    "title": "Introdução à Mineração de Bitcoin",
+    "goal": "Compreender o funcionamento da indústria de mineração através de um exercício prático de reutilização de ASICs.",
+    "url": "/pt/courses/min201",
+    "lang": "pt"
+  },
+  {
+    "title": "Wprowadzenie do Bitcoin Mining",
+    "goal": "Zrozumienie funkcjonowania branży Mining poprzez praktyczne ćwiczenie ponownego wykorzystania układów ASIC.",
+    "url": "/pl/courses/min201",
+    "lang": "pl"
+  },
+  {
+    "title": "Sicurezza informatica e gestione dei dati",
+    "goal": "Aggiornare la gestione delle password e dei dati personali. Creazione di un backup, protezione dagli hacker e sensibilizzazione alla sorveglianza di massa.",
+    "url": "/it/courses/scu101",
+    "lang": "it"
+  },
+  {
+    "title": "Seguridad informática y gestión de datos",
+    "goal": "Actualizar la gestión de contraseñas y datos personales. Crear una copia de seguridad, protegerse de los hackers y concienciarse sobre la vigilancia masiva.",
+    "url": "/es/courses/scu101",
+    "lang": "es"
+  },
+  {
+    "title": "Update Your Online Security",
+    "goal": "Update password and personal data management. Create a backup, protect against hackers, and raise awareness about mass surveillance.",
+    "url": "/en/courses/scu101",
+    "lang": "en"
+  },
+  {
+    "title": "Aktualizujte svou online bezpečnost",
+    "goal": "Aktualizace správy hesel a osobních údajů. Vytvoření zálohy, ochrana proti hackerům a zvýšení povědomí o masovém sledování.",
+    "url": "/cs/courses/scu101",
+    "lang": "cs"
+  },
+  {
+    "title": "Sécurité informatique & gestion des données",
+    "goal": "Remettre à jour la gestion de mots de passe et des données personnelles. Création d’un backup, se protéger des hackers et se sensibiliser à la surveillance de masse.",
+    "url": "/fr/courses/scu101",
+    "lang": "fr"
+  },
+  {
+    "title": "IT-Sicherheit & Datenmanagement",
+    "goal": "Aktualisierung des Passwort- und persönlichen Datenmanagements. Erstellung eines Backups, Schutz vor Hackern und Sensibilisierung für Massenüberwachung.",
+    "url": "/de/courses/scu101",
+    "lang": "de"
+  },
+  {
+    "title": "Päivitä verkkoturvasi",
+    "goal": "Päivitä salasana- ja henkilötietojen hallinta. Luo varmuuskopio, suojaa hakkeroinnilta ja lisää tietoisuutta massavalvonnasta.",
+    "url": "/fi/courses/scu101",
+    "lang": "fi"
+  },
+  {
+    "title": "Обновите вашу онлайн безопасность",
+    "goal": "Обновление пароля и управление личными данными. Создание резервной копии, защита от хакеров и повышение осведомленности о массовом наблюдении.",
+    "url": "/ru/courses/scu101",
+    "lang": "ru"
+  },
+  {
+    "title": "Värskenda Oma Veebiturvalisust",
+    "goal": "Värskenda parooli ja isikuandmete haldust. Loo varukoopia, kaitse häkkerite eest ja tõsta teadlikkust massilisest jälgimisest.",
+    "url": "/et/courses/scu101",
+    "lang": "et"
+  },
+  {
+    "title": "Segurança da Informação e Gerenciamento de Dados",
+    "goal": "Atualizar o gerenciamento de senhas e dados pessoais. Criar um backup, se proteger de hackers e conscientizar sobre vigilância em massa.",
+    "url": "/pt/courses/scu101",
+    "lang": "pt"
+  },
+  {
+    "title": "Zaktualizuj swoje zabezpieczenia online",
+    "goal": "Zaktualizuj zarządzanie hasłami i danymi osobowymi. Utwórz kopię zapasową, chroń się przed hakerami i zwiększaj świadomość na temat masowej inwigilacji.",
+    "url": "/pl/courses/scu101",
+    "lang": "pl"
+  },
+  {
+    "title": "The origins of Laissez-Faire economics",
+    "goal": "Explore the foundations of 18th-century French liberal economic thought, in particular the doctrine of laissez-faire, through its key thinkers and lasting influence.",
+    "url": "/en/courses/his204",
+    "lang": "en"
+  },
+  {
+    "title": "Les origines du Laissez-Faire économique",
+    "goal": "Explorer les fondements de la pensée économique libérale française du XVIIIe siècle, en particulier la doctrine du laissez-faire, à travers ses principaux penseurs et son influence durable.",
+    "url": "/fr/courses/his204",
+    "lang": "fr"
+  },
+  {
+    "title": "Bitcoin Development Accelerator",
+    "goal": "Acquisire tutte le basi per iniziare a sviluppare su Bitcoin",
+    "url": "/it/courses/btc401",
+    "lang": "it"
+  },
+  {
+    "title": "Acelerador de Desarrollo de Bitcoin",
+    "goal": "Adquirir todas las bases para comenzar a desarrollar en Bitcoin",
+    "url": "/es/courses/btc401",
+    "lang": "es"
+  },
+  {
+    "title": "Bitcoin Development Accelerator",
+    "goal": "Acquire all the foundations to start developing on Bitcoin",
+    "url": "/en/courses/btc401",
+    "lang": "en"
+  },
+  {
+    "title": "Akcelerátor Vývoje Bitcoinu",
+    "goal": "Získat veškeré základy pro začátek vývoje na Bitcoinu",
+    "url": "/cs/courses/btc401",
+    "lang": "cs"
+  },
+  {
+    "title": "Accélérateur de développement Bitcoin",
+    "goal": "Acquérir toutes les bases pour commencer à développer sur Bitcoin",
+    "url": "/fr/courses/btc401",
+    "lang": "fr"
+  },
+  {
+    "title": "Bitcoin-Entwicklungsbeschleuniger",
+    "goal": "Alle Grundlagen für die Entwicklung auf Bitcoin erwerben",
+    "url": "/de/courses/btc401",
+    "lang": "de"
+  },
+  {
+    "title": "Bitcoin Development Accelerator",
+    "goal": "Hanki kaikki tarvittavat tiedot aloittaaksesi kehittämisen Bitcoinin parissa",
+    "url": "/fi/courses/btc401",
+    "lang": "fi"
+  },
+  {
+    "title": "Bitcoin Development Accelerator",
+    "goal": "Получить все основы для начала разработки на Bitcoin",
+    "url": "/ru/courses/btc401",
+    "lang": "ru"
+  },
+  {
+    "title": "Bitcoin Arenduse Kiirendi",
+    "goal": "Omandada kõik alused, et alustada arendamist Bitcoin'i peal",
+    "url": "/et/courses/btc401",
+    "lang": "et"
+  },
+  {
+    "title": "Acelerador de Desenvolvimento Bitcoin",
+    "goal": "Adquirir todas as bases para começar a desenvolver no Bitcoin",
+    "url": "/pt/courses/btc401",
+    "lang": "pt"
+  },
+  {
+    "title": "Akcelerator rozwoju Bitcoin",
+    "goal": "Zdobądź wszystkie fundamenty, aby rozpocząć rozwój na Bitcoin",
+    "url": "/pl/courses/btc401",
+    "lang": "pl"
+  },
+  {
+    "title": "Privacy su Bitcoin",
+    "goal": "Comprendere e padroneggiare i principi di protezione della privacy quando si utilizza Bitcoin",
+    "url": "/it/courses/btc204",
+    "lang": "it"
+  },
+  {
+    "title": "Privacidad en Bitcoin",
+    "goal": "Comprender y dominar los principios de protección de la privacidad al utilizar Bitcoin",
+    "url": "/es/courses/btc204",
+    "lang": "es"
+  },
+  {
+    "title": "Privacy on Bitcoin",
+    "goal": "Understand and master the principles of privacy protection when using Bitcoin",
+    "url": "/en/courses/btc204",
+    "lang": "en"
+  },
+  {
+    "title": "Ochrana osobních údajů v bitcoinech",
+    "goal": "Pochopení a zvládnutí zásad ochrany soukromí při používání Bitcoinu",
+    "url": "/cs/courses/btc204",
+    "lang": "cs"
+  },
+  {
+    "title": "La confidentialité sur Bitcoin",
+    "goal": "Comprendre et maîtriser les principes de la protection de la vie privée dans l'utilisation de Bitcoin",
+    "url": "/fr/courses/btc204",
+    "lang": "fr"
+  },
+  {
+    "title": "Datenschutz bei Bitcoin",
+    "goal": "Verstehen und Beherrschen der Grundsätze des Datenschutzes bei der Verwendung von Bitcoin",
+    "url": "/de/courses/btc204",
+    "lang": "de"
+  },
+  {
+    "title": "Bitcoinin yksityisyys",
+    "goal": "Ymmärtää ja hallita yksityisyyden suojan periaatteet Bitcoinia käytettäessä",
+    "url": "/fi/courses/btc204",
+    "lang": "fi"
+  },
+  {
+    "title": "Конфиденциальность в биткойне",
+    "goal": "Понять и освоить принципы защиты конфиденциальности при использовании Bitcoin",
+    "url": "/ru/courses/btc204",
+    "lang": "ru"
+  },
+  {
+    "title": "Bitcoini privaatsus",
+    "goal": "Mõista ja omandada privaatsuse kaitse põhimõtteid Bitcoini kasutamisel",
+    "url": "/et/courses/btc204",
+    "lang": "et"
+  },
+  {
+    "title": "Privacidade na Bitcoin",
+    "goal": "Compreender e dominar os princípios de proteção da privacidade ao utilizar a Bitcoin",
+    "url": "/pt/courses/btc204",
+    "lang": "pt"
+  },
+  {
+    "title": "Prywatność na Bitcoin",
+    "goal": "Zrozumienie i opanowanie zasad ochrony prywatności podczas korzystania z Bitcoin",
+    "url": "/pl/courses/btc204",
+    "lang": "pl"
+  },
+  {
+    "title": "Bitcoin per le aziende",
+    "goal": "Imparate le nozioni di base sui pagamenti e sulla tesoreria per portare la vostra azienda nel network di Bitcoin",
+    "url": "/it/courses/biz101",
+    "lang": "it"
+  },
+  {
+    "title": "Bitcoin para empresas",
+    "goal": "Conozca los fundamentos de los pagos y la tesorería para que su empresa adopte bitcoin",
+    "url": "/es/courses/biz101",
+    "lang": "es"
+  },
+  {
+    "title": "Bitcoin for Businesses",
+    "goal": "Learn the payment and treasury basics to onboard your company to bitcoin",
+    "url": "/en/courses/biz101",
+    "lang": "en"
+  },
+  {
+    "title": "Bitcoin pro firmy",
+    "goal": "Naučte se základy plateb a pokladny, abyste mohli svou společnost připojit k bitcoinu",
+    "url": "/cs/courses/biz101",
+    "lang": "cs"
+  },
+  {
+    "title": "Bitcoin pour les entreprises",
+    "goal": "Apprenez les bases du paiement et de la trésorerie pour faire passer votre entreprise au bitcoin",
+    "url": "/fr/courses/biz101",
+    "lang": "fr"
+  },
+  {
+    "title": "Bitcoin für Unternehmen",
+    "goal": "Lernen Sie die Grundlagen des Zahlungsverkehrs und der Finanzverwaltung, um Ihr Unternehmen auf Bitcoin umzustellen",
+    "url": "/de/courses/biz101",
+    "lang": "de"
+  },
+  {
+    "title": "Bitcoin yrityksille",
+    "goal": "Opi maksamisen ja kassanhallinnan perusteet, jotta voit ottaa yrityksesi käyttöön bitcoinin",
+    "url": "/fi/courses/biz101",
+    "lang": "fi"
+  },
+  {
+    "title": "Биткойн для бизнеса",
+    "goal": "Изучите основы платежей и казначейства для перехода вашей компании на биткойн",
+    "url": "/ru/courses/biz101",
+    "lang": "ru"
+  },
+  {
+    "title": "Bitcoin ettevõtetele",
+    "goal": "Õppige makse- ja riigikassa põhitõdesid, et võtta oma ettevõte bitcoini kasutusele",
+    "url": "/et/courses/biz101",
+    "lang": "et"
+  },
+  {
+    "title": "Bitcoin para empresas",
+    "goal": "Aprenda as noções básicas de pagamento e tesouraria para integrar a bitcoin na sua empresa",
+    "url": "/pt/courses/biz101",
+    "lang": "pt"
+  },
+  {
+    "title": "Bitcoin dla firm",
+    "goal": "Poznaj podstawy płatności i finansów, aby wdrożyć swoją firmę do Bitcoin",
+    "url": "/pl/courses/biz101",
+    "lang": "pl"
+  },
+  {
+    "title": "Il protocollo RGB, dalla teoria alla pratica",
+    "goal": "Acquisire le competenze necessarie per comprendere e utilizzare l'RGB",
+    "url": "/it/courses/csv402",
+    "lang": "it"
+  },
+  {
+    "title": "El protocolo RGB, de la teoría a la práctica",
+    "goal": "Adquirir los conocimientos necesarios para comprender y utilizar el RGB",
+    "url": "/es/courses/csv402",
+    "lang": "es"
+  },
+  {
+    "title": "The RGB protocol, from theory to practice",
+    "goal": "Acquire the skills needed to understand and use RGB",
+    "url": "/en/courses/csv402",
+    "lang": "en"
+  },
+  {
+    "title": "Protokol RGB od teorie k praxi",
+    "goal": "Získat dovednosti potřebné k pochopení a používání RGB",
+    "url": "/cs/courses/csv402",
+    "lang": "cs"
+  },
+  {
+    "title": "Le protocole RGB, de la théorie à la pratique",
+    "goal": "Acquérir les compétences nécessaires pour comprendre et utiliser RGB",
+    "url": "/fr/courses/csv402",
+    "lang": "fr"
+  },
+  {
+    "title": "Das RGB-Protokoll, von der Theorie zur Praxis",
+    "goal": "Erwerben Sie die notwendigen Fähigkeiten, um RGB zu verstehen und zu verwenden",
+    "url": "/de/courses/csv402",
+    "lang": "de"
+  },
+  {
+    "title": "RGB-protokolla teoriasta käytäntöön",
+    "goal": "Hankkia tarvittavat taidot RGB:n ymmärtämiseen ja käyttöön",
+    "url": "/fi/courses/csv402",
+    "lang": "fi"
+  },
+  {
+    "title": "Протокол RGB, от теории к практике",
+    "goal": "Приобретите навыки, необходимые для понимания и использования RGB",
+    "url": "/ru/courses/csv402",
+    "lang": "ru"
+  },
+  {
+    "title": "RGB protokoll, teooriast praktikasse",
+    "goal": "Omandada RGB mõistmiseks ja kasutamiseks vajalikud oskused",
+    "url": "/et/courses/csv402",
+    "lang": "et"
+  },
+  {
+    "title": "O protocolo RGB, da teoria à prática",
+    "goal": "Adquirir as competências necessárias para compreender e utilizar o RGB",
+    "url": "/pt/courses/csv402",
+    "lang": "pt"
+  },
+  {
+    "title": "Protokół RGB, od teorii do praktyki",
+    "goal": "Zdobycie umiejętności potrzebnych do zrozumienia i korzystania z RGB",
+    "url": "/pl/courses/csv402",
+    "lang": "pl"
+  },
+  {
+    "title": "Il Funzionamento Interno dei Wallet Bitcoin",
+    "goal": "Esplorare i principi crittografici che si celano dietro i wallet Bitcoin.",
+    "url": "/it/courses/cyp201",
+    "lang": "it"
+  },
+  {
+    "title": "El Funcionamiento Interno de las Carteras de Bitcoin",
+    "goal": "Sumergirse en los principios criptográficos que impulsan las carteras de Bitcoin.",
+    "url": "/es/courses/cyp201",
+    "lang": "es"
+  },
+  {
+    "title": "The Inner Workings of Bitcoin Wallets",
+    "goal": "Dive into the cryptographic principles that power Bitcoin wallets.",
+    "url": "/en/courses/cyp201",
+    "lang": "en"
+  },
+  {
+    "title": "Vnitřní fungování Bitcoinových peněženek",
+    "goal": "Ponořte se do kryptografických principů, které stojí za Bitcoinovými peněženkami.",
+    "url": "/cs/courses/cyp201",
+    "lang": "cs"
+  },
+  {
+    "title": "Les rouages des portefeuilles Bitcoin",
+    "goal": "Plongez dans les principes cryptographiques qui font fonctionner les portefeuilles Bitcoin.",
+    "url": "/fr/courses/cyp201",
+    "lang": "fr"
+  },
+  {
+    "title": "Die inneren Mechanismen von Bitcoin-Wallets",
+    "goal": "Tauchen Sie ein in die kryptografischen Prinzipien, die Bitcoin-Wallets antreiben.",
+    "url": "/de/courses/cyp201",
+    "lang": "de"
+  },
+  {
+    "title": "Bitcoin-lompakoiden sisäinen toiminta",
+    "goal": "Sukella Bitcoin-lompakoiden voimanlähteenä toimivien kryptografisten periaatteiden syövereihin.",
+    "url": "/fi/courses/cyp201",
+    "lang": "fi"
+  },
+  {
+    "title": "Внутреннее устройство биткойн-кошельков",
+    "goal": "Погрузиться в криптографические принципы, лежащие в основе биткойн-кошельков.",
+    "url": "/ru/courses/cyp201",
+    "lang": "ru"
+  },
+  {
+    "title": "Bitcoin Rahakottide Sisemine Tööpõhimõte",
+    "goal": "Sukelduda krüptograafilistesse põhimõtetesse, mis toetavad Bitcoin rahakotte.",
+    "url": "/et/courses/cyp201",
+    "lang": "et"
+  },
+  {
+    "title": "O Funcionamento Interno das Carteiras de Bitcoin",
+    "goal": "Mergulhar nos princípios criptográficos que alimentam as carteiras de Bitcoin.",
+    "url": "/pt/courses/cyp201",
+    "lang": "pt"
+  },
+  {
+    "title": "Wewnętrzne działanie portfeli Bitcoin",
+    "goal": "Zanurz się w zasadach kryptograficznych, które zasilają portfele Bitcoin.",
+    "url": "/pl/courses/cyp201",
+    "lang": "pl"
+  }
+]

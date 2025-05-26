@@ -36,3 +36,15 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+
+## Link submodule
+
+This is a one-time command to link the `bitcoin-educational-content` submodule to your project.
+It will clone the repository into your project directory under the specified path if not already present.
+
+```bash
+git submodule add \
+  --branch mainnet \
+  --depth 1 \
+  git@github.com:PlanB-Network/bitcoin-educational-content.git
+```
