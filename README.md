@@ -48,3 +48,10 @@ git submodule add \
   --depth 1 \
   git@github.com:PlanB-Network/bitcoin-educational-content.git
 ```
+
+## Deploying to cloudflare pages
+
+#### Variables and Secrets
+
+Set the `BUN_VERSION`: `1` to prevent Cloudflare to use Node for the build.
+

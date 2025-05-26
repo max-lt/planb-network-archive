@@ -4,6 +4,7 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
+    "ci": "bun install --frozen-lockfile && bun run build",
     "dev": "bunx --bun vite dev",
     "sync": "bun run sync.ts",
     "prebuild": "bun sync",
