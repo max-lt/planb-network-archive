@@ -135,3 +135,14 @@ for await (const course of courses.scan()) {
 await Bun.file('./src/lib/courses.json').write(
   JSON.stringify(toc, null, 2)
 );
+
+// Remove every .pptx from assets
+const assetsGlob = new Glob('./static/**/*.pptx');
+console.log('Removing .pptx files from assets...');
+
+for await (const asset of assetsGlob.scan()) {
+  if (asset.endsWith('.pptx')) {
+    console.log(`Removing ${asset}`);
+    await Bun.file(asset).unlink();
+  }
+}
