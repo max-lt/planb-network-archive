@@ -4,10 +4,9 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "ci": "bun install --frozen-lockfile && bun run build",
+    "ci": "bun install --frozen-lockfile && bun sync && bun run build",
     "dev": "bunx --bun vite dev",
     "sync": "bun run sync.ts",
-    "prebuild": "bun sync",
     "build": "bunx --bun vite build",
     "preview": "bunx --bun vite preview",
     "prepare": "bunx --bun svelte-kit sync || echo ''",
@@ -19,6 +18,7 @@
   "devDependencies": {
     "@sveltejs/adapter-auto": "^6.0.0",
     "@sveltejs/adapter-cloudflare": "^7.0.3",
+    "@sveltejs/adapter-static": "^3.0.8",
     "@sveltejs/kit": "^2.16.0",
     "@sveltejs/vite-plugin-svelte": "^5.0.0",
     "@tailwindcss/vite": "^4.0.0",
